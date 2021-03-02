@@ -1,4 +1,4 @@
-
+//the problem to this code is in this link copy it to know the problem :::: "https://hackerrank-challenge-pdfs.s3.amazonaws.com/8098-java-datatypes-English?AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1614702470&Signature=%2BTC8Ly734Z0qV6jQkDDFN"//
 import java.util.*;
 import java.io.*;
 
