@@ -21,7 +21,8 @@ class Result {
     public static String findDay(int month, int day, int year) {
         
         
-        String[] day_of_week ={"SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY"};
+        String[] day_of_week ={"SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY"}; //the main part of this code is here.
+                                                                                                         //this part resembles the result.
         
        Calendar cal = Calendar.getInstance();
        
